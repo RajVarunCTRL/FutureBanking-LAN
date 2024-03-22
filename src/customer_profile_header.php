@@ -63,9 +63,9 @@ if($_SESSION['customer_login'] != true)
             <a class="cust_logout" href="customer_logout.php"><input type="button" name="logout_btn" value="Logout" id="logout"></a>
         
         </div>
-        <!-- <br>
+        <br>
         <marquee class="warning"><p>Please Change your password regularly</p></marquee> 
-        <br> -->
+        <br>
         <div class="profile_nav">
         <ul>
             <a href="customer_profile_myacc.php"><li class="link1">My Account</li></a>
