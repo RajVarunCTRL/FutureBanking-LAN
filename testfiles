@@ -1,1 +1,8 @@
+Password hashing techniques.
+
+Write  a function to hash the given input by the user.
+Save to the database usin g256 bit encryption
+
+use the same SHA-256 encryption when the user is trying to login to their personal account.
+
 
